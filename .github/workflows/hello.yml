@@ -1,5 +1,4 @@
-# Workflow
-# Should Have Name
+
 name: Hello
 on: workflow_dispatch
 jobs: 
