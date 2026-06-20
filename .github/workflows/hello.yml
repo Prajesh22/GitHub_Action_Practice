@@ -2,8 +2,7 @@
 # Should Have Name
 name: Hello
 on: workflow_dispatch
-   jobs: 
-   say-hello: 
+jobs: 
      runs-on: ubuntu-latest
     steps:
     - name: Say hello to everyone
